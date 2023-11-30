@@ -3,6 +3,11 @@
 }
 
 .card_img {
-    height: 200px;
+    width: 100%;
     object-fit: cover;
+    height: 250px;
+}
+
+.tags_list {
+    height: 100px;
 }

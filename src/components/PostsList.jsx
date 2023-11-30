@@ -1,4 +1,3 @@
-import style from "../css/modules/PostsList.module.scss"
 import listaPost from "../posts.json"
 import Post from './Post';
 

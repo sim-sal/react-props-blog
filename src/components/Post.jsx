@@ -1,3 +1,5 @@
+import style from "../css/modules/Posts.module.scss"
+
 function getImgUrl(name) {
     return new URL(`../assets/imgs/${name}`, import.meta.url).href;
 }
@@ -27,14 +29,14 @@ const Post = ({ title, image, content, tags, published }) => {
     };
 
     return (
-        <div style={{ border: '1px solid #ccc', padding: '10px', margin: '10px' }}>
-            <img src={imageUrl} alt="Post" style={{ maxWidth: '100%' }} />
+        <div className={`card my-3 ${style.mod_card}`}>
+            <img className={style.card_img} src={imageUrl} alt="Post" />
             <h2>{title}</h2>
             <p>{content}</p>
-            <div>
+            <div className="row p-4">
                 {Array.isArray(tags) &&
                     tags.map((tag, index) => (
-                        <span
+                        <span className="col-12"
                             key={index}
                             style={{
                                 backgroundColor: tagColors[tag] || 'gray',
@@ -44,7 +46,7 @@ const Post = ({ title, image, content, tags, published }) => {
                                 borderRadius: '5px',
                             }}
                         >
-                            {tag}
+                            #{tag}
                         </span>
                     ))}
             </div>
