@@ -17,27 +17,9 @@
             "updatedAt": "2023-11-28T15:49:59.169Z"
         },
         "tags": [
-            {
-                "id": 3,
-                "name": "#LifeStyle",
-                "slug": "lifestyle",
-                "createdAt": "2023-11-27T14:32:58.442Z",
-                "updatedAt": "2023-11-27T14:32:58.442Z"
-            },
-            {
-                "id": 4,
-                "name": "#MotivationMonday",
-                "slug": "motivationmonday",
-                "createdAt": "2023-11-27T14:33:13.090Z",
-                "updatedAt": "2023-11-27T14:33:13.090Z"
-            },
-            {
-                "id": 5,
-                "name": "#PicOfTheDay",
-                "slug": "picoftheday",
-                "createdAt": "2023-11-27T14:33:23.497Z",
-                "updatedAt": "2023-11-27T14:33:23.497Z"
-            }
+            "LifeStyle",
+            "MotivationMonday",
+            "PicOfTheDay"
         ]
     },
     {
@@ -58,20 +40,8 @@
             "updatedAt": "2023-11-28T15:51:50.771Z"
         },
         "tags": [
-            {
-                "id": 17,
-                "name": "#NaturePhotography",
-                "slug": "naturephotography",
-                "createdAt": "2023-11-27T14:36:17.713Z",
-                "updatedAt": "2023-11-27T14:36:17.713Z"
-            },
-            {
-                "id": 18,
-                "name": "#AdventureTime",
-                "slug": "adventuretime",
-                "createdAt": "2023-11-27T14:36:28.809Z",
-                "updatedAt": "2023-11-27T14:36:28.809Z"
-            }
+            "NaturePhotography",
+            "AdventureTime"
         ]
     },
     {
@@ -92,20 +62,8 @@
             "updatedAt": "2023-11-28T15:55:28.274Z"
         },
         "tags": [
-            {
-                "id": 8,
-                "name": "#MusicIsLife",
-                "slug": "musicislife",
-                "createdAt": "2023-11-27T14:34:16.736Z",
-                "updatedAt": "2023-11-27T14:34:16.736Z"
-            },
-            {
-                "id": 10,
-                "name": "#MusicInspiration",
-                "slug": "musicinspiration",
-                "createdAt": "2023-11-27T14:34:39.637Z",
-                "updatedAt": "2023-11-27T14:34:39.637Z"
-            }
+            "MusicIsLife",
+            "MusicInspiration"
         ]
     },
     {
@@ -126,27 +84,9 @@
             "updatedAt": "2023-11-28T15:55:56.159Z"
         },
         "tags": [
-            {
-                "id": 18,
-                "name": "#AdventureTime",
-                "slug": "adventuretime",
-                "createdAt": "2023-11-27T14:36:28.809Z",
-                "updatedAt": "2023-11-27T14:36:28.809Z"
-            },
-            {
-                "id": 19,
-                "name": "#VacationMode",
-                "slug": "vacationmode",
-                "createdAt": "2023-11-27T14:36:36.499Z",
-                "updatedAt": "2023-11-27T14:36:36.499Z"
-            },
-            {
-                "id": 20,
-                "name": "#TravelPhotography",
-                "slug": "travelphotography",
-                "createdAt": "2023-11-27T14:36:45.697Z",
-                "updatedAt": "2023-11-27T14:36:45.697Z"
-            }
+            "AdventureTime",
+            "TravelPhotography",
+            "VacationMode"
         ]
     },
     {
@@ -167,27 +107,9 @@
             "updatedAt": "2023-11-28T15:57:49.211Z"
         },
         "tags": [
-            {
-                "id": 3,
-                "name": "#LifeStyle",
-                "slug": "lifestyle",
-                "createdAt": "2023-11-27T14:32:58.442Z",
-                "updatedAt": "2023-11-27T14:32:58.442Z"
-            },
-            {
-                "id": 5,
-                "name": "#PicOfTheDay",
-                "slug": "picoftheday",
-                "createdAt": "2023-11-27T14:33:23.497Z",
-                "updatedAt": "2023-11-27T14:33:23.497Z"
-            },
-            {
-                "id": 20,
-                "name": "#TravelPhotography",
-                "slug": "travelphotography",
-                "createdAt": "2023-11-27T14:36:45.697Z",
-                "updatedAt": "2023-11-27T14:36:45.697Z"
-            }
+            "LifeStyle",
+            "PicOfTheDay",
+            "TravelPhotography"
         ]
     },
     {
@@ -208,27 +130,9 @@
             "updatedAt": "2023-11-28T15:59:07.446Z"
         },
         "tags": [
-            {
-                "id": 12,
-                "name": "#FilmFestival",
-                "slug": "filmfestival",
-                "createdAt": "2023-11-27T14:35:02.886Z",
-                "updatedAt": "2023-11-27T14:35:02.886Z"
-            },
-            {
-                "id": 15,
-                "name": "#DigitalWorld",
-                "slug": "digitalworld",
-                "createdAt": "2023-11-27T14:35:52.194Z",
-                "updatedAt": "2023-11-27T14:35:52.194Z"
-            },
-            {
-                "id": 17,
-                "name": "#NaturePhotography",
-                "slug": "naturephotography",
-                "createdAt": "2023-11-27T14:36:17.713Z",
-                "updatedAt": "2023-11-27T14:36:17.713Z"
-            }
+            "FilmFestival",
+            "DigitalWorld",
+            "NaturePhotography"
         ]
     },
     {
@@ -249,41 +153,11 @@
             "updatedAt": "2023-11-28T16:00:47.801Z"
         },
         "tags": [
-            {
-                "id": 12,
-                "name": "#FilmFestival",
-                "slug": "filmfestival",
-                "createdAt": "2023-11-27T14:35:02.886Z",
-                "updatedAt": "2023-11-27T14:35:02.886Z"
-            },
-            {
-                "id": 15,
-                "name": "#DigitalWorld",
-                "slug": "digitalworld",
-                "createdAt": "2023-11-27T14:35:52.194Z",
-                "updatedAt": "2023-11-27T14:35:52.194Z"
-            },
-            {
-                "id": 17,
-                "name": "#NaturePhotography",
-                "slug": "naturephotography",
-                "createdAt": "2023-11-27T14:36:17.713Z",
-                "updatedAt": "2023-11-27T14:36:17.713Z"
-            },
-            {
-                "id": 18,
-                "name": "#AdventureTime",
-                "slug": "adventuretime",
-                "createdAt": "2023-11-27T14:36:28.809Z",
-                "updatedAt": "2023-11-27T14:36:28.809Z"
-            },
-            {
-                "id": 20,
-                "name": "#TravelPhotography",
-                "slug": "travelphotography",
-                "createdAt": "2023-11-27T14:36:45.697Z",
-                "updatedAt": "2023-11-27T14:36:45.697Z"
-            }
+            "FilmFestival",
+            "DigitalWorld",
+            "NaturePhotography",
+            "AdventureTime",
+            "TravelPhotography"
         ]
     },
     {
@@ -304,34 +178,10 @@
             "updatedAt": "2023-11-28T16:02:20.965Z"
         },
         "tags": [
-            {
-                "id": 1,
-                "name": "#SocialMedia",
-                "slug": "socialmedia",
-                "createdAt": "2023-11-27T14:31:49.146Z",
-                "updatedAt": "2023-11-27T14:31:49.146Z"
-            },
-            {
-                "id": 3,
-                "name": "#LifeStyle",
-                "slug": "lifestyle",
-                "createdAt": "2023-11-27T14:32:58.442Z",
-                "updatedAt": "2023-11-27T14:32:58.442Z"
-            },
-            {
-                "id": 5,
-                "name": "#PicOfTheDay",
-                "slug": "picoftheday",
-                "createdAt": "2023-11-27T14:33:23.497Z",
-                "updatedAt": "2023-11-27T14:33:23.497Z"
-            },
-            {
-                "id": 8,
-                "name": "#MusicIsLife",
-                "slug": "musicislife",
-                "createdAt": "2023-11-27T14:34:16.736Z",
-                "updatedAt": "2023-11-27T14:34:16.736Z"
-            }
+            "SocialMedia",
+            "LifeStyle",
+            "PicOfTheDay",
+            "MusicIsLife"
         ]
     },
     {
@@ -352,34 +202,10 @@
             "updatedAt": "2023-11-28T16:03:57.127Z"
         },
         "tags": [
-            {
-                "id": 5,
-                "name": "#PicOfTheDay",
-                "slug": "picoftheday",
-                "createdAt": "2023-11-27T14:33:23.497Z",
-                "updatedAt": "2023-11-27T14:33:23.497Z"
-            },
-            {
-                "id": 10,
-                "name": "#MusicInspiration",
-                "slug": "musicinspiration",
-                "createdAt": "2023-11-27T14:34:39.637Z",
-                "updatedAt": "2023-11-27T14:34:39.637Z"
-            },
-            {
-                "id": 17,
-                "name": "#NaturePhotography",
-                "slug": "naturephotography",
-                "createdAt": "2023-11-27T14:36:17.713Z",
-                "updatedAt": "2023-11-27T14:36:17.713Z"
-            },
-            {
-                "id": 18,
-                "name": "#AdventureTime",
-                "slug": "adventuretime",
-                "createdAt": "2023-11-27T14:36:28.809Z",
-                "updatedAt": "2023-11-27T14:36:28.809Z"
-            }
+            "PicOfTheDay",
+            "MusicInspiration",
+            "NaturePhotography",
+            "AdventureTime"
         ]
     }
 ]
